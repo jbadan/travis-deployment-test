@@ -7,8 +7,9 @@ git:
 branches:
   only:
   - develop
-  - "/^feature\\/.*$/"
-  - "/^fix\\/.*$/"
+  - "/^feature\/.*$/"
+  - "/^feat\/.*$/"
+  - "/^fix\/.*$/"
 jobs:
   include:
   - stage: Fundamental-react build
