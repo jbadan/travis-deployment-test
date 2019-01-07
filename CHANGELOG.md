@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.27.2"></a>
+## [1.27.2](https://github.com/jbadan/travis-deployment-test/compare/v1.27.1...v1.27.2) (2019-01-07)
+
+
+### Bug Fixes
+
+* check if prevents auto merging ([c5a7a87](https://github.com/jbadan/travis-deployment-test/commit/c5a7a87))
+
+
+
 <a name="1.27.1"></a>
 ## [1.27.1](https://github.com/jbadan/travis-deployment-test/compare/v1.27.0...v1.27.1) (2019-01-07)
 
